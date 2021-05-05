@@ -1,7 +1,7 @@
 from random import *
 
 
-num = randint(1,10)
+num = randint(1,100)
 score = 0
 while True:
     guess = int(input("GUESS "))
